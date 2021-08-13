@@ -1,7 +1,11 @@
-
+baseurl = "https://PhilGim.github.io/"
 
 title = "MSA"
 theme = "frago"
 
 [params]
   organisation = "Accessibilité en MSA"
+
+  [params.strategy]
+    schema = "https://www.monadministration.gouv.fr/schema_pluriannuel_2020-2022.pdf"
+    plan = "https://www.monadministration.gouv.fr/plan_annuel_2020.pdf"
