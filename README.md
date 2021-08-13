@@ -11,4 +11,4 @@ Il s'appuie sur le thème développé par la DISIC : [frago](https://github.com/
 
 ## Auteur
 
-2020-2021, Philippe Gimond 
+2021, Philippe Gimond 
